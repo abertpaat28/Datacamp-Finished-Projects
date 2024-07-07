@@ -1,5 +1,5 @@
 ---
-I’m delighted to share the projects I've completed!😊
+I’m delighted to share the projects I've completed!😊 
 My goal is to provide solutions for business challenges and objectives while enhancing my SQL querying skills.
 
 _Please note that the repository may be updated periodically as I add new completed projects._
