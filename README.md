@@ -5,8 +5,8 @@ My goal is to provide solutions for business challenges and objectives while enh
 _Please note that this repository may be updated periodically as I add new completed projects._
 
 ---
-## TABLE OF CONTENTS
-### SQL Projects
+## 📑 TABLE OF CONTENTS
+### 🛢️ SQL Projects
 - Introduction to Notebook Projects
 - Analyzing Baby Name Trends
 - When Was the Golden Era of Video Games
