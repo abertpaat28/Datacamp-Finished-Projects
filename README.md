@@ -10,7 +10,10 @@ _Please note that this repository may be updated periodically as I add new compl
 - Introduction to Notebook Projects
 - Analyzing Baby Name Trends
 - When Was the Golden Era of Video Games
+- Analyze International Debt Statistics
 
+
+---
 
 
 ---
