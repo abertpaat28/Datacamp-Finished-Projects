@@ -16,7 +16,7 @@ _Please note that this repository may be updated periodically as I add new compl
 ---
 ### Introduction to Notebook Projects
 <p align="center">
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
+<img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/1afd25df-3bfe-42ab-a525-5246e76d7ed9" align="center">
 
 PROJECT DESCRIPTION:  
 This introductory project taught me how to work with DataLab notebooks and utilize them to solve DataCamp projects. I learned about notebooks and cells and how to use them to address problems in Python, SQL, and R projects. This prepared me to tackle my first real notebook-based project!
