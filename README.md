@@ -8,9 +8,9 @@ _Please note that this repository may be updated periodically as I add new compl
 ## 📑 TABLE OF CONTENTS
 ### 🛢️ SQL Projects
 - [Introduction to Notebook Projects](https://github.com/abertpaat28/Datacamp-Finished-Projects#-introduction-to-notebook-projects)
-- [Analyzing Baby Name Trends]()
-- [When Was the Golden Era of Video Games]()
-- [Analyze International Debt Statistics]()
+- [Analyzing Baby Name Trends](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyzing-baby-name-trends)
+- [When Was the Golden Era of Video Games](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-when-was-the-golden-era-of-video-games)
+- [Analyze International Debt Statistics](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyze-international-debt-statistics)
 
 
 
