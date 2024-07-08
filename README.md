@@ -14,6 +14,29 @@ _Please note that this repository may be updated periodically as I add new compl
 
 
 ---
+### Introduction to Notebook Projects
+<p align="center">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
 
+PROJECT DESCRIPTION:  
+This introductory project taught me how to work with DataLab notebooks and utilize them to solve DataCamp projects. I learned about notebooks and cells and how to use them to address problems in Python, SQL, and R projects. This prepared me to tackle my first real notebook-based project!
+
+---
+### Analyzing Baby Name Trends
+<p align="center">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
+![391165fa-70ad-4a2a-a8b3-1cbf550353e2](https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/7e2a64c8-6fa7-401e-8592-e26ae5b44b02)
+
+
+PROJECT DESCRIPTION:  
+What makes a name timeless or trendy? In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
+The ranking, grouping, joining, ordering, and pattern matching skills I used in this project are broadly applicable: understanding changing tastes is a key competency for businesses as well as parents searching for a baby name!
+
+
+---
+### When Was the Golden Era of Video Games
+
+---
+### Analyze International Debt Statistics
 
 ---
