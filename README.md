@@ -20,6 +20,7 @@ _Please note that this repository may be updated periodically as I add new compl
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/1afd25df-3bfe-42ab-a525-5246e76d7ed9" align="center" width="800" height="200" >
 
 **PROJECT DESCRIPTION:**  
+
 This introductory project taught me how to work with DataLab notebooks and utilize them to solve DataCamp projects. I learned about notebooks and cells and how to use them to address problems in Python, SQL, and R projects. This prepared me to tackle my first real notebook-based project!
 
 👨‍💻 [_do the project here_](https://app.datacamp.com/learn/projects/2485)  
@@ -46,6 +47,7 @@ What makes a name timeless or trendy? In this project, I analyzed data from the 
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/c232a7cd-5000-4a34-b2be-b5fbb6d45057" align="center" width="530" height="350" >
 
 **PROJECT DESCRIPTION:**  
+
 According to Mordor Intelligence, video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 
 In this project, I analyzed video game critic and user scores, in addition to sales data for the top 400 video games released since 1977. I searched for a golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
@@ -61,6 +63,7 @@ In this project, I analyzed video game critic and user scores, in addition to sa
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/d759670e-b6c8-4639-9ee8-0251da7601d1" align="center" width="530" height="190" >
 
 **PROJECT DESCRIPTION:**  
+
 In this project, I analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. I used my data manipulation skills to find out which countries have the highest and lowest amounts of debt.
 
 👨‍💻 [_do the project here_](https://app.datacamp.com/learn/projects/1906)  
