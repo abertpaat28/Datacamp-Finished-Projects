@@ -14,7 +14,7 @@ _Please note that this repository may be updated periodically as I add new compl
 
 
 ---
-### Introduction to Notebook Projects
+### Introduction to Notebook Projects 📢
 <p align="center">
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/1afd25df-3bfe-42ab-a525-5246e76d7ed9" align="center" width="800" height="200" >
 
@@ -23,7 +23,7 @@ This introductory project taught me how to work with DataLab notebooks and utili
 
 
 ---
-### Analyzing Baby Name Trends
+### Analyzing Baby Name Trends 👶
 <p align="center">
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/d6a5ba4f-04bb-4de7-b8a5-b3115d3119e8" align="center" width="530" height="370" >
 
@@ -33,7 +33,7 @@ What makes a name timeless or trendy? In this project, I analyzed data from the 
 
 
 ---
-### When Was the Golden Era of Video Games
+### When Was the Golden Era of Video Games 🎮
 <p align="center">
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/c232a7cd-5000-4a34-b2be-b5fbb6d45057" align="center" width="600" height="400" >
 
@@ -43,7 +43,7 @@ According to Mordor Intelligence, video games are big business: the global gamin
 In this project, I analyzed video game critic and user scores, in addition to sales data for the top 400 video games released since 1977. I searched for a golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
 ---
-### Analyze International Debt Statistics
+### Analyze International Debt Statistics 💰
 <p align="center">
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/d759670e-b6c8-4639-9ee8-0251da7601d1" align="center" width="600" height="230" >
 
