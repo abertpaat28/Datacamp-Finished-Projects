@@ -14,6 +14,7 @@ _`Please note that this repository may be updated periodically as I add new comp
 - [Analyzing Electric Vehicle Charging Habits](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-electric-vehicle-charging-habits)
 - [Analyzing Industry Carbon Emissions](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-industry-carbon-emissions)
 - [Analyzing Students Mental Health](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-students-mental-health)
+- [What and Where are the World's Oldest Businesses](https://github.com/abertpaat28/Datacamp-Finished-Projects#-what-and-where-are-the-worlds-oldest-businesses)
 
 ---
 ## 📢 Introduction to Notebook Projects
@@ -78,7 +79,7 @@ In this project, I analyze international debt data collected by The World Bank. 
 
 **PROJECT DESCRIPTION:**  
 
-As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations. In this introductory project, you will use a dataset containing information on station usage to help apartment building managers better understand their tenants’ EV charging habits.
+As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations. I used a dataset containing information on station usage to help apartment building managers better understand their tenants’ EV charging habits.
 
 👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/2408)  
 💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/04%20-%20Analyzing%20Electric%20Vehicle%20Charging%20Habits)
@@ -90,7 +91,7 @@ As electronic vehicles (EVs) become more popular, there is an increasing need fo
 
 **PROJECT DESCRIPTION:**  
 
-Product emissions make up more than 75% of global emissions. But which industries are the worst offenders? Use your SQL skills to investigate!
+Product emissions make up more than 75% of global emissions. But which industries are the worst offenders? I used my SQL skills to investigate!
 
 👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/1590)  
 💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/05%20-%20Analyzing%20Industry%20Carbon%20Emissions)
@@ -102,10 +103,21 @@ Product emissions make up more than 75% of global emissions. But which industrie
 
 **PROJECT DESCRIPTION:**  
 
-Studying abroad can be both exciting and difficult. But what might be contributing to this? One Japanese international university decided to find out! Use your data manipulation skills to explore the data from a study on the mental health of international students, and find out which factors may have the greatest impact.
+Studying abroad can be both exciting and difficult. But what might be contributing to this? One Japanese international university decided to find out! I used my data manipulation skills to explore the data from a study on the mental health of international students, and found out which factors may have the greatest impact.
 
 👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/1593)  
 💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/06%20-%20Analyzing%20Students%20Mental%20Health)
 
 ---
+## 🧠 What and Where are the World's Oldest Businesses
+<p align="center">
+<img src="https://github.com/user-attachments/assets/52de5a9d-7630-415c-9793-004caa09cde4" align="center" width="350" height="530" >
 
+**PROJECT DESCRIPTION:**  
+
+An important part of business is planning for the future and ensuring that the business survives changing market conditions. Some businesses do this remarkably well and last for hundreds of years. In this project, I explored data from BusinessFinancing.co.uk on the world's oldest businesses.
+
+👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/1168)  
+💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/07%20-%20What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
+
+---
