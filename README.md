@@ -11,9 +11,9 @@ _`Please note that this repository may be updated periodically as I add new comp
 - [Analyzing Baby Name Trends](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyzing-baby-name-trends)
 - [When Was the Golden Era of Video Games](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-when-was-the-golden-era-of-video-games)
 - [Analyze International Debt Statistics](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyze-international-debt-statistics)
-- [Analyzing Electric Vehicle Charging Habits](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-electric-vehicle-charging-habits)
-- [Analyzing Industry Carbon Emissions](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-industry-carbon-emissions)
-- [Analyzing Students Mental Health](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-students-mental-health)
+- [Analyzing Electric Vehicle Charging Habits](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-electric-vehicle-charging-habits)
+- [Analyzing Industry Carbon Emissions](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-industry-carbon-emissions)
+- [Analyzing Students Mental Health](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-students-mental-health)
 
 ---
 ## 📢 Introduction to Notebook Projects
@@ -35,6 +35,7 @@ This introductory project taught me how to work with DataLab notebooks and utili
 <img src="https://github.com/abertpaat28/Datacamp-Finished-Projects/assets/172190865/d6a5ba4f-04bb-4de7-b8a5-b3115d3119e8" align="center" width="530" height="370" >
 
 **PROJECT DESCRIPTION:**  
+
 What makes a name timeless or trendy? In this project, I analyzed data from the U.S. Social Security Administration, covering over a century, to explore American baby name preferences. The skills I utilized—ranking, grouping, joining, ordering, and pattern matching—are widely applicable. Understanding evolving tastes is crucial not only for businesses but also for parents selecting a baby name!
 
 👨‍💻 [_do the project here_](https://app.datacamp.com/learn/projects/1441)  
