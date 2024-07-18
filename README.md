@@ -11,8 +11,9 @@ _`Please note that this repository may be updated periodically as I add new comp
 - [Analyzing Baby Name Trends](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyzing-baby-name-trends)
 - [When Was the Golden Era of Video Games](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-when-was-the-golden-era-of-video-games)
 - [Analyze International Debt Statistics](https://github.com/abertpaat28/Datacamp-Finished-Projects?#-analyze-international-debt-statistics)
-
-
+- [Analyzing Electric Vehicle Charging Habits](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-electric-vehicle-charging-habits)
+- [Analyzing Industry Carbon Emissions](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-industry-carbon-emissions)
+- [Analyzing Students Mental Health](https://github.com/abertpaat28/Datacamp-Finished-Projects/edit/main/README.md#-analyzing-students-mental-health)
 
 ---
 ## 📢 Introduction to Notebook Projects
@@ -70,3 +71,40 @@ In this project, I analyze international debt data collected by The World Bank. 
 💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/03%20-%20Analyze%20International%20Debt%20Statistics)
 
 ---
+## 🚗 Analyzing Electric Vehicle Charging Habits
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4178767c-a1fa-4e30-a388-d3db6fb71b91" align="center" width="530" height="400" >
+
+**PROJECT DESCRIPTION:**  
+
+As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations. In this introductory project, you will use a dataset containing information on station usage to help apartment building managers better understand their tenants’ EV charging habits.
+
+👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/2408)  
+💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/04%20-%20Analyzing%20Electric%20Vehicle%20Charging%20Habits)
+
+---
+## 🏭 Analyzing Industry Carbon Emissions
+<p align="center">
+<img src="https://github.com/user-attachments/assets/83d066b4-0ed3-4437-991b-78e6223d3f78" align="center" width="530" height="400" >
+
+**PROJECT DESCRIPTION:**  
+
+Product emissions make up more than 75% of global emissions. But which industries are the worst offenders? Use your SQL skills to investigate!
+
+👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/1590)  
+💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/05%20-%20Analyzing%20Industry%20Carbon%20Emissions)
+
+---
+## 🧠 Analyzing Students Mental Health
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5a36177d-d066-4edd-af4e-f3b4d292a578" align="center" width="530" height="290" >
+
+**PROJECT DESCRIPTION:**  
+
+Studying abroad can be both exciting and difficult. But what might be contributing to this? One Japanese international university decided to find out! Use your data manipulation skills to explore the data from a study on the mental health of international students, and find out which factors may have the greatest impact.
+
+👨‍💻 [_do the project here_](https://projects.datacamp.com/projects/1593)  
+💡 [_view my solution here_](https://github.com/abertpaat28/Datacamp-Finished-Projects/tree/main/06%20-%20Analyzing%20Students%20Mental%20Health)
+
+---
+
